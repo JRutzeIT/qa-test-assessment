@@ -23,6 +23,7 @@ Test results can be found in test-reports.
 
 ## Executing the tests
 Install first using `npm install`.
+Add the folder 'test-reports' manually to the root.
 Run the tests using `npm run e2e`.
 
 ## Findings
