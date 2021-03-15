@@ -7,7 +7,6 @@ Test automation scripts were written using Cucumber and Protractor.
 The scripts also use a Page Object Model structure.
 Since the source code of the application was available I mapped the pages based on the application.
 All the testscripts were made independent from each other.
-A test report is included of the last run.
 Scenario "Performing an empty search should remove previous search results" will fail as intended for planets and people.
 
 ## Assumptions
